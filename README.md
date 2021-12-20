@@ -4,6 +4,7 @@
 .Net 6
 
 ### Commands to build and publish a working software
+- Once cloned, go to HomeworkAPI/Homework api directory
 - "dotnet restore"
 - "dotnet publish -o -directory where you want to publish-"
 
