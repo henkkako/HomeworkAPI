@@ -5,7 +5,7 @@
 
 ### Commands to build and publish a working software
 - "dotnet restore"
-- "dotnet publish -o <directory where you want to publish>"
+- "dotnet publish -o -directory where you want to publish-"
 
 ### Running
 - "dotnet HomeworkAPI.dll"
