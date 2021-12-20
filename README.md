@@ -11,4 +11,4 @@
 ### Running
 - "dotnet HomeworkAPI.dll"
 
-The HomeworkAPI uses port 80. When program is running on localhost go to localhost:80/sayhello and you should receive answer.
+The HomeworkAPI uses port 80. When program is running on localhost go to localhost:80/sayhello on your web browser and you should receive answer.
