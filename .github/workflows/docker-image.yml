@@ -18,4 +18,4 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: homeworkapi:latest
+        tags: htkdocker/homeworkapi:latest
