@@ -2,7 +2,7 @@ name: dotnet-docker-heroku CD
 
 on:
   push:
-    branches: [ main ]
+    branches: master
     
 #set environment variables 
 env:
